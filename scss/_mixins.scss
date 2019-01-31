@@ -56,7 +56,6 @@
 @mixin devider($color-line : $white-gray) {
   display: block;
   width: 7px;
-  height: 7px;
   position: relative;
   margin: 20px auto;
 
@@ -79,7 +78,7 @@
     content: "";
     width: 80px;
     height: 1px;
-    background-color: $white-gray;
+    background-color: $gray-light;
     display: block;
     position: absolute;
     top: 55%;
