@@ -1,0 +1,2 @@
+# Bino
+Template Landing Page
